@@ -1,2 +1,2 @@
-# ins-money
-Insurance Charges, how do they work?
+# Insurance Charges
+how do they work?
