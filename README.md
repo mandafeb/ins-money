@@ -1,2 +1,5 @@
 # Insurance Charges
-how do they work?
+what affects them?
+
+## Video Explanation
+https://youtu.be/QCcdGnnuWVs
